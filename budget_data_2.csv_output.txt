@@ -1,9 +1,0 @@
-
-
-Financial Analysis for budget_data_2.csv
-------------------------------------------------------
-Total Months: 86
-Total Revenue: $36973911
-Average Monthly Change: $5087.08
-Greatest Single Revenue Increase: 12-Mar ($1141606)
-Greatest Single Revenue Decrease: 10-Sep ($-1063151)
