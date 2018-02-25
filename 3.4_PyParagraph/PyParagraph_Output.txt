@@ -1,0 +1,7 @@
+
+Text Analysis
+--------------------------------
+Word count: 121
+Sentence count: 5
+Average letters per word: 4.6
+Average words in sentence: 24.2
